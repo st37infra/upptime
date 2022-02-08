@@ -12,10 +12,10 @@ sites:
   - name: ST37 Engarde Escrime
     url: https://www.engarde-escrime.com
   - name: ST37 Paasport
-    url: https://www.paasport.st37.fr/
+    url: https://www.paasport.st37.fr
   - name: ST37 Skouting Industrie
-    url: https://www.industrie.st37.fr/
- - name: ST37 AI
+    url: https://www.industrie.st37.fr
+  - name: ST37 AI
     url: http://aist.st37.fr    
 
 status-website:
