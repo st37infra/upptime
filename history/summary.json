@@ -58,19 +58,19 @@
     "url": "https://www.engarde-escrime.com",
     "icon": "https://favicons.githubusercontent.com/www.engarde-escrime.com",
     "slug": "st-37-engarde-escrime",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 974,
-    "timeDay": 1012,
-    "timeWeek": 951,
-    "timeMonth": 974,
-    "timeYear": 974,
+    "status": "up",
+    "uptime": "99.06%",
+    "uptimeDay": "85.68%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
+    "time": 962,
+    "timeDay": 873,
+    "timeWeek": 927,
+    "timeMonth": 962,
+    "timeYear": 962,
     "dailyMinutesDown": {
-      "2022-02-23": 0
+      "2022-02-23": 206
     }
   },
   {
