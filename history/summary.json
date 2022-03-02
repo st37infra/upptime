@@ -4,19 +4,19 @@
     "url": "https://www.st37.fr",
     "icon": "https://favicons.githubusercontent.com/www.st37.fr",
     "slug": "st-37-home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1746,
-    "timeDay": 1624,
-    "timeWeek": 1628,
-    "timeMonth": 1746,
-    "timeYear": 1746,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "95.43%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 1749,
+    "timeDay": 1722,
+    "timeWeek": 1652,
+    "timeMonth": 1749,
+    "timeYear": 1749,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 66
     }
   },
   {
