@@ -32,5 +32,8 @@ status-website:
     - title: Home
       href: https://www.st37.fr
 
+i18n:
+  footer: &copy; ST37 Sport et Tecnologie
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
