@@ -26,6 +26,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/st37infra/upptime/master/assets/st37.svg
   faviconSvg: https://raw.githubusercontent.com/st37infra/upptime/master/assets/st37.svg
   name: Uptime Monitor
+  themeUrl: https://raw.githubusercontent.com/st37infra/upptime/master/assets/styles.css
   navbar:
     - title: Home
       href: https://www.st37.fr
