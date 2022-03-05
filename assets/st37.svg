@@ -1,0 +1,24 @@
+<svg preserveAspectRatio="xMidYMid meet" data-bbox="0.1 0.9 76.675 32.2" viewBox="0 0 77 34" height="34" width="77" xmlns="http://www.w3.org/2000/svg" data-type="ugc" role="presentation" aria-hidden="true" aria-labelledby="svgcid-3j1xwu1l5h9t"><title id="svgcid-3j1xwu1l5h9t"></title>
+    <g>
+        <linearGradient y2="33.086" x2="8.265" y1=".919" x1="8.265" gradientUnits="userSpaceOnUse" id="svgcid-ajxe84-tzettd">
+            <stop offset="0" stop-color="#faa22f"></stop>
+            <stop offset="1" stop-color="#f26522"></stop>
+        </linearGradient>
+        <path d="M10.5.9c3.8 0 5.8 2 5.8 5.8V11c0 .4-.2.6-.6.6h-4.2c-.4 0-.6-.2-.6-.6V7.8c0-1-.5-1.6-1.6-1.6h-2c-1 0-1.6.6-1.6 1.6v5.5l9.6 3.1c.7.3 1 .7 1 1.5v9.3c0 3.8-2 5.8-5.8 5.8H6c-3.7 0-5.8-2-5.8-5.8V23c0-.4.2-.6.6-.6H5c.4 0 .6.2.6.6v3.1c0 1.1.6 1.6 1.6 1.6h1.9c1 0 1.6-.5 1.6-1.6v-5.3l-9.5-3.1C.5 17.5.1 17 .1 16.2V6.7C.1 2.9 2.2.9 5.9.9h4.6z" fill="url(#svgcid-ajxe84-tzettd)"></path>
+        <linearGradient y2="33.083" x2="27.565" y1=".914" x1="27.565" gradientUnits="userSpaceOnUse" id="svgcid-80pzx8-b2oobk">
+            <stop offset="0" stop-color="#faa22f"></stop>
+            <stop offset="1" stop-color="#f26522"></stop>
+        </linearGradient>
+        <path d="M35 .9c.4 0 .6.2.6.6v4c0 .4-.2.6-.6.6h-4.7v26.2c0 .4-.2.7-.6.7h-4.2c-.4 0-.6-.2-.6-.7V6.2h-4.7c-.4 0-.6-.2-.6-.6v-4c0-.4.2-.6.6-.6H35z" fill="url(#svgcid-80pzx8-b2oobk)"></path>
+        <linearGradient y2="33.086" x2="46.883" y1=".919" x1="46.883" gradientUnits="userSpaceOnUse" id="svgcid-32dz3u2nz9to">
+            <stop offset="0" stop-color="#faa22f"></stop>
+            <stop offset="1" stop-color="#f26522"></stop>
+        </linearGradient>
+        <path d="M54.9 14.1c0 1.5-1.1 2.6-2.5 2.9 1.4.2 2.5 1.4 2.5 2.9v7.4c0 3.8-2 5.8-5.8 5.8h-4.7c-3.7 0-5.6-2-5.6-5.6v-1.3c0-.5.3-.8.8-.8h3.9c.5 0 .8.3.8.8v1.7h4.5c.5 0 .8-.3.8-.8v-5.7c0-1-.5-1.6-1.6-1.6h-4.7c-.5 0-.8-.3-.8-.8v-3.7c0-.5.3-.8.8-.8H48c1 0 1.6-.6 1.6-1.6V7c0-.5-.3-.8-.8-.8h-4.5v1.6c0 .5-.3.8-.8.8h-3.9c-.5 0-.8-.3-.8-.8V6.2c0-3.5 2-5.3 5.6-5.3h4.7c3.8 0 5.8 2 5.8 5.8v7.4z" fill="url(#svgcid-32dz3u2nz9to)"></path>
+        <linearGradient y2="33.046" x2="67.871" y1=".919" x1="67.871" gradientUnits="userSpaceOnUse" id="svgcid-e9gk1j6lllb8">
+            <stop offset="0" stop-color="#faa22f"></stop>
+            <stop offset="1" stop-color="#f26522"></stop>
+        </linearGradient>
+        <path d="M76.1.9c.6 0 .8.4.6 1L65 32.4c-.2.4-.5.6-1 .6h-4.2c-.6 0-.8-.3-.6-.9l9.9-25.9h-9.5c-.4.1-.6-.2-.6-.6v-4c0-.4.2-.6.6-.7h16.5z" fill="url(#svgcid-e9gk1j6lllb8)"></path>
+    </g>
+</svg>
