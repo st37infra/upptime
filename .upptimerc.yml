@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.st37.fr
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/st37infra/upptime/master/assets/st37.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page."
   introMessage: This is a sample status page which uses **real-time** data
