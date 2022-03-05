@@ -24,13 +24,10 @@ status-website:
   cname: uptime.st37.fr
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/st37infra/upptime/master/assets/st37.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page."
-  introMessage: This is a sample status page which uses **real-time** data
+  faviconSvg: https://raw.githubusercontent.com/st37infra/upptime/master/assets/st37.svg
+  name: Uptime Monitor
   navbar:
-    - title: Status
-      href: /
-    - title: ST37
+    - title: Home
       href: https://www.st37.fr
 
 # Upptime also supports notifications, assigning issues, and more
