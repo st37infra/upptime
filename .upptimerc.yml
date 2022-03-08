@@ -15,8 +15,8 @@ sites:
     url: https://www.paasport.st37.fr
   - name: ST37 Skouting Industrie
     url: https://www.industrie.st37.fr
-  - name: ST37 AI
-    url: http://aist.st37.fr    
+  #- name: ST37 AI
+  #  url: http://aist.st37.fr    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
