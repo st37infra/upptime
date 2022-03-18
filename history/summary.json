@@ -42,10 +42,10 @@
     "url": "https://engarde-service.com",
     "icon": "https://favicons.githubusercontent.com/engarde-service.com",
     "slug": "st-37-engarde-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
@@ -53,7 +53,9 @@
     "timeWeek": 710,
     "timeMonth": 767,
     "timeYear": 756,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-18": 1
+    }
   },
   {
     "name": "ST37 Engarde Escrime",
@@ -117,11 +119,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "st-37-ai",
     "status": "up",
-    "uptime": "83.91%",
+    "uptime": "84.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.91%",
-    "uptimeYear": "83.91%",
+    "uptimeMonth": "84.36%",
+    "uptimeYear": "84.36%",
     "time": 265,
     "timeDay": 0,
     "timeWeek": 0,
