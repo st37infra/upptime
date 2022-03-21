@@ -15,9 +15,13 @@ sites:
     url: https://www.paasport.st37.fr
   - name: ST37 Skouting Industrie
     url: https://www.industrie.st37.fr
-  - name: ST37 AI
+  - name: ST37 AI Prod
     check: "tcp-ping"
-    url: aist.st37.fr
+    url: 52.211.208.47
+    port: 9999
+  - name: ST37 AI Dev
+    check: "tcp-ping"
+    url: dev-aist.st37.fr
     port: 9999
 
 status-website:
