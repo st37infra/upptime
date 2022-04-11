@@ -42,11 +42,11 @@
     "url": "https://engarde-service.com",
     "icon": "https://favicons.githubusercontent.com/engarde-service.com",
     "slug": "st-37-engarde-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 735,
     "timeDay": 881,
@@ -54,7 +54,7 @@
     "timeMonth": 694,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2022-04-11": 4,
+      "2022-04-11": 1,
       "2022-03-18": 7
     }
   },
