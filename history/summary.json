@@ -101,10 +101,10 @@
     "url": "https://www.industrie.st37.fr",
     "icon": "https://favicons.githubusercontent.com/www.industrie.st37.fr",
     "slug": "st-37-skouting-industrie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 491,
@@ -112,7 +112,9 @@
     "timeWeek": 253,
     "timeMonth": 293,
     "timeYear": 491,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "ST37 AI Prod",
