@@ -4,11 +4,11 @@
     "url": "https://www.st37.fr",
     "icon": "https://favicons.githubusercontent.com/www.st37.fr",
     "slug": "st-37-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 2051,
     "timeDay": 2040,
@@ -16,6 +16,7 @@
     "timeMonth": 2088,
     "timeYear": 2051,
     "dailyMinutesDown": {
+      "2022-04-14": 4,
       "2022-03-02": 66
     }
   },
@@ -82,10 +83,10 @@
     "url": "https://www.paasport.st37.fr",
     "icon": "https://favicons.githubusercontent.com/www.paasport.st37.fr",
     "slug": "st-37-paasport",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
@@ -93,17 +94,19 @@
     "timeWeek": 453,
     "timeMonth": 347,
     "timeYear": 540,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 2
+    }
   },
   {
     "name": "ST37 Skouting Industrie",
     "url": "https://www.industrie.st37.fr",
     "icon": "https://favicons.githubusercontent.com/www.industrie.st37.fr",
     "slug": "st-37-skouting-industrie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 493,
@@ -111,7 +114,9 @@
     "timeWeek": 250,
     "timeMonth": 294,
     "timeYear": 493,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-14": 1
+    }
   },
   {
     "name": "ST37 AI Prod",
