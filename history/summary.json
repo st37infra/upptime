@@ -10,11 +10,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.91%",
-    "time": 2059,
-    "timeDay": 2373,
-    "timeWeek": 2289,
-    "timeMonth": 2107,
-    "timeYear": 2059,
+    "time": 2070,
+    "timeDay": 2844,
+    "timeWeek": 2239,
+    "timeMonth": 2143,
+    "timeYear": 2070,
     "dailyMinutesDown": {
       "2022-04-14": 19,
       "2022-03-02": 66
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 155,
-    "timeWeek": 230,
-    "timeMonth": 180,
-    "timeYear": 168,
+    "time": 166,
+    "timeDay": 43,
+    "timeWeek": 223,
+    "timeMonth": 177,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 732,
-    "timeDay": 601,
-    "timeWeek": 790,
-    "timeMonth": 690,
-    "timeYear": 732,
+    "time": 735,
+    "timeDay": 1049,
+    "timeWeek": 783,
+    "timeMonth": 705,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2022-03-18": 7
     }
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 972,
-    "timeDay": 717,
-    "timeWeek": 1056,
-    "timeMonth": 950,
-    "timeYear": 972,
+    "time": 975,
+    "timeDay": 1174,
+    "timeWeek": 1052,
+    "timeMonth": 963,
+    "timeYear": 975,
     "dailyMinutesDown": {
       "2022-02-23": 206
     }
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 283,
-    "timeWeek": 435,
-    "timeMonth": 346,
-    "timeYear": 537,
+    "time": 541,
+    "timeDay": 604,
+    "timeWeek": 407,
+    "timeMonth": 369,
+    "timeYear": 541,
     "dailyMinutesDown": {}
   },
   {
@@ -102,19 +102,17 @@
     "icon": "https://favicons.githubusercontent.com/www.industrie.st37.fr",
     "slug": "st-37-skouting-industrie",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 488,
-    "timeDay": 248,
-    "timeWeek": 252,
-    "timeMonth": 292,
-    "timeYear": 488,
-    "dailyMinutesDown": {
-      "2022-04-14": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 494,
+    "timeDay": 518,
+    "timeWeek": 342,
+    "timeMonth": 318,
+    "timeYear": 494,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ST37 AI Prod",
