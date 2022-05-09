@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
-    "time": 2178,
-    "timeDay": 2225,
-    "timeWeek": 2338,
-    "timeMonth": 2485,
-    "timeYear": 2178,
+    "time": 2176,
+    "timeDay": 1956,
+    "timeWeek": 2335,
+    "timeMonth": 2498,
+    "timeYear": 2176,
     "dailyMinutesDown": {
       "2022-04-14": 19,
       "2022-03-02": 66
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 178,
-    "timeDay": 145,
-    "timeWeek": 175,
-    "timeMonth": 223,
-    "timeYear": 178,
+    "time": 179,
+    "timeDay": 296,
+    "timeWeek": 194,
+    "timeMonth": 228,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 725,
-    "timeDay": 611,
-    "timeWeek": 662,
-    "timeMonth": 712,
+    "timeDay": 775,
+    "timeWeek": 690,
+    "timeMonth": 719,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2022-03-18": 7
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 956,
-    "timeDay": 798,
-    "timeWeek": 920,
-    "timeMonth": 926,
+    "timeDay": 1048,
+    "timeWeek": 970,
+    "timeMonth": 936,
     "timeYear": 956,
     "dailyMinutesDown": {
       "2022-02-23": 206
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 215,
-    "timeWeek": 340,
-    "timeMonth": 337,
-    "timeYear": 492,
+    "time": 493,
+    "timeDay": 639,
+    "timeWeek": 411,
+    "timeMonth": 353,
+    "timeYear": 493,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 455,
-    "timeDay": 242,
-    "timeWeek": 348,
-    "timeMonth": 320,
-    "timeYear": 455,
+    "time": 457,
+    "timeDay": 653,
+    "timeWeek": 419,
+    "timeMonth": 336,
+    "timeYear": 457,
     "dailyMinutesDown": {}
   },
   {
