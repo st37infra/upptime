@@ -1,7 +1,7 @@
 url: https://www.industrie.st37.fr
-status: up
-code: 200
-responseTime: 374
-lastUpdated: 2022-06-15T23:14:53.475Z
+status: down
+code: 502
+responseTime: 183
+lastUpdated: 2022-06-16T18:49:56.532Z
 startTime: Tue Feb 08 2022 11:31:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
