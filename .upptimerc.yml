@@ -13,8 +13,8 @@ sites:
     url: https://www.engarde-escrime.com
   - name: ST37 Paasport
     url: https://www.paasport.st37.fr
-  - name: ST37 Skouting Industrie
-    url: https://www.industrie.st37.fr
+  - name: ST37 Skouting Fencing
+    url: https://fencing.skouting.com
   - name: ST37 AI Prod
     check: "tcp-ping"
     url: 52.211.208.47
